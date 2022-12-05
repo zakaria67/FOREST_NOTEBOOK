@@ -1,4 +1,4 @@
-package be.intecbrussel.the_notebook;
+package be.intecbrussel.plant_entities;
 
 public class Tree extends Plant{
     private LeafType leafType;
